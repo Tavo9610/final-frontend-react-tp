@@ -18,7 +18,6 @@
 
 #### Just to locally run it. open it with a terminal and execute "-npm run dev"
 #### Para ejecutarlo localmente de forma basica, abrir una terminal y ejecutar "-npm run dev"
-## Lists
 
 ## Commit History / Commits Realizados
 
